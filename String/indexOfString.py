@@ -1,0 +1,10 @@
+name = "Asifur Rahman Atef"
+print(name[0])
+print(name[3])
+print(name[8])
+print(name[10])
+print(name.index("r"))
+print(name.index("A"))
+print(name.index("f"))
+print(name[-1])
+print(name[-7])
