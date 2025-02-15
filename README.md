@@ -1,36 +1,32 @@
 # Python Learning Journey 🚀🐍  
 
-Welcome to my Python learning repository! This is where I document and share my progress as I learn and practice Python programming. Feel free to explore, learn, and contribute.  
+🚨 **This repository has been discontinued!** 🚨  
+
+I’ve now started a new challenge: **100 Days of Python**! 🎯  
+Check it out here 👉 [100DaysOfPython](https://github.com/asifurrahmanbubt/100DaysOfPython)  
 
 ---
 
 ## 📖 About This Repository  
-This repo is a collection of Python code, exercises, and projects I’ve worked on while learning Python. My goal is to document my journey, improve my coding skills, and share my learning with others.  
+This repo was originally created to document my Python learning journey. It contains various Python exercises, mini-projects, and code snippets I worked on while exploring Python.  
+
+Since I’ve now committed to the **100 Days of Python Challenge**, this repository will no longer be updated.  
 
 ---
 
-## 🏆 Goals  
+## 🏆 What’s Next?  
 
-1. Learn Python basics thoroughly.  
-2. Build confidence in solving problems.  
-3. Apply concepts in real-world scenarios through mini-projects.  
-4. Share my learning experience with others.  
+🔄 **Transitioning to 100 Days of Python Challenge**  
+- Instead of random practice, I’ll now focus on **structured daily coding** for 100 days straight!  
+- The new repo will contain **daily folders** (`Day1/`, `Day2/`, etc.), each with Python scripts I write as part of my journey.  
 
----
-
-## 🔥 How You Can Contribute  
-
-If you’re a Python enthusiast or learner like me:  
-- Share suggestions to improve my code.  
-- Recommend interesting problems or mini-project ideas.  
-- Fork this repo and explore it yourself!  
+📢 **Follow my progress in my new repo:**  
+👉 [100DaysOfPython](https://github.com/asifurrahmanbubt/100DaysOfPython)  
 
 ---
 
-## 🌟 A Note to Myself  
+## 🌟 A Final Note  
 
-> "Every great coder was once a beginner who never gave up."  
-
----
+Although this repo is no longer active, I appreciate everything I’ve learned through it. If you’re looking for my latest Python progress, check out my new challenge!  
 
 ### Let’s code, learn, and grow together! 🎉  
